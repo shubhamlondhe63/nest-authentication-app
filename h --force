@@ -1,0 +1,24 @@
+[33mcommit 42cf03cd01ae2bacddf7404d470cb76c9e7af0c9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: b22e4d2 db93554
+Author: Shubham Londhe <slondhe@novatechset.com>
+Date:   Thu Dec 5 15:08:02 2024 +0530
+
+    Resolve merge conflicts
+
+[33mcommit b22e4d2d67e0b228d01d5d2262311113570f7e8a[m
+Author: Shubham Londhe <slondhe@novatechset.com>
+Date:   Thu Dec 5 15:07:04 2024 +0530
+
+    first commits
+
+[33mcommit db93554ea329cc41fc0888275d3929b4c115542d[m
+Author: Shubham Londhe <98313774+shubhamlondhe63@users.noreply.github.com>
+Date:   Wed Dec 4 17:23:30 2024 +0530
+
+    Update README.md
+
+[33mcommit 6d5ec1ffdcbe085aca901c98d648ca3f0b6e1959[m
+Author: Shubham Londhe <98313774+shubhamlondhe63@users.noreply.github.com>
+Date:   Wed Dec 4 16:57:28 2024 +0530
+
+    Initial commit
